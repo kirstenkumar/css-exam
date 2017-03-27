@@ -35,3 +35,12 @@ h3 {
   border-bottom: 2px lightgrey solid;
   padding-bottom: 10px;
 }
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  background: white;
+  padding: 15px;
+}
+body {
+  background: darkgrey;
+}
