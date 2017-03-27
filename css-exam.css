@@ -5,3 +5,19 @@ h3 {
   margin-top: 0px;
   font-style: italic;
 }
+.byline {
+  font-size: 12px;
+  color: grey;
+  text-transform: uppercase;
+  margin-top: -20px;
+}
+.headline {
+  font-size: 18px;
+  margin: 0 auto;
+}
+.headline a {
+    color: #BF5700;
+}
+.paragraph {
+  margin-top: -10px;
+}
