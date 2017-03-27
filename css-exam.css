@@ -31,3 +31,7 @@ h3 {
 .pulitzer .headline {
   font-size: 22px;
 }
+.more h3 {
+  border-bottom: 2px lightgrey solid;
+  padding-bottom: 10px;
+}
